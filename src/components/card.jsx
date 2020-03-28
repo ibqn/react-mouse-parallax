@@ -1,7 +1,5 @@
 import React from 'react'
-// import ReactDOM from 'react-dom'
 import { useSpring, animated } from 'react-spring'
-// import './styles.css' // Icons made by Freepik from www.flaticon.com
 import styled from 'styled-components'
 import imgCard1 from './card1.svg'
 import imgCard2 from './card2.svg'
